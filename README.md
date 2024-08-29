@@ -1,4 +1,4 @@
-# CMPT-353-Project
+# Analyse Gender Pay Gap
 
 # Description
 Given our initial analysis of the data, we will build a predictive model that prospective
